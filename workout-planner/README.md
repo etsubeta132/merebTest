@@ -22,7 +22,3 @@
    npx expo start --ios
    ```
 
-
-## Get a fresh project
-
-When you're ready, run:
